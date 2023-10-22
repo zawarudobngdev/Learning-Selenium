@@ -1,2 +1,2 @@
-# Learning-Selenium
-Selenium test automation
+# Learning Selenium
+learning test automation with selenium :shipit:
